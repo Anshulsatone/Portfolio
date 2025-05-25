@@ -13,7 +13,7 @@ const ContactSection: React.FC = () => {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
-          contact
+          Contact
         </motion.h2>
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
